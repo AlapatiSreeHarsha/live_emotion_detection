@@ -4,3 +4,4 @@ mediapipe
 fer
 numpy
 tensorflow
+moviepy
